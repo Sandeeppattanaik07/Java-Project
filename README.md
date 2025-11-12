@@ -6,23 +6,23 @@ A simple Java console application that allows users to create bank accounts, dep
 
 🚀 Features
 
-Create Savings or Current accounts
+1. Create Savings or Current accounts
 
-Deposit and withdraw money
+2. Deposit and withdraw money
 
-Check account balance
+3. Check account balance
 
-Menu-driven console interface
+4. Menu-driven console interface
 
 🧠 Concepts Used
 
-Encapsulation (private variables, getters/setters)
+1. Encapsulation (private variables, getters/setters)
 
-Inheritance (SavingsAccount, CurrentAccount)
+2. Inheritance (SavingsAccount, CurrentAccount)
 
-Polymorphism (method overriding)
+3. Polymorphism (method overriding)
 
-Abstraction (abstract base class)
+4. Abstraction (abstract base class)
 
 ⚙️ How to Run
 ```
@@ -32,4 +32,4 @@ java BankSystem
 🧑‍💻 Author
 
 Sandeep Pattanaik
-💻 Core Java | OOP | Beginner Project
+💻 Core Java | OOPS
